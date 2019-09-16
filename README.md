@@ -1,6 +1,6 @@
 # Spring
 
-In this Repository I have worked on java using it's Spring Framework Library. I've worked on following topics:
+In this Repository I have worked on java using it's Spring Framework. I've worked on following topics:
 1.Setter Injections
 2.Constructor Injections
 3.Dependcies Injections
